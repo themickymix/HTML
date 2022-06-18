@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> I LOVE YOU </title>
+<title> Click me </title>
 
 <script type="text/javascript">
 flag=1
